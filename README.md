@@ -50,11 +50,6 @@ Experiencias docentes en clase
 * [Otros proyectos educativos](./RoboticaComoExcusa.md)
 * [Integración de los proyectos en las clases](./RoboticaAula.md)
 * [Propuestas por edades](./PropuestasTecnologiaEdades.md)
-
-Revisión de los avances
-* Revisión del avance de los proyectos
-* Programación más avanzada
-* Uso de componentes externos
 * Reciclaje de materiales
 * [Ideas](./ideas.md) y [Proyectos](./Proyectos.md)
 
