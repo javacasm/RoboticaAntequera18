@@ -1,6 +1,6 @@
-# Robotica Antequera
+# Robotica Antequera 2018
 
-Curso de introducción a la robótica
+Curso de introducción a la robótica (secundaria)
 
 CEP de Antequera
 
