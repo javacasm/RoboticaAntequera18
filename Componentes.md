@@ -10,7 +10,7 @@ CEP de Antequera
 
 ![cc](./images/CCbySQ_88x31.png)
 
-## [https://github.com/javacasm/RoboticaAntequera](https://github.com/javacasm/RoboticaAntequera)
+## [https://github.com/javacasm/RoboticaAntequera18](https://github.com/javacasm/RoboticaAntequera18)
 # Componentes
 
 ## Kit
@@ -19,14 +19,14 @@ Vamos a usar el [kit de robótica de BQ](https://www.bq.com/es/zum-kit)
 
 Precio 109,9 (aunque hacen descuento a centros educativos)
 
-![kit bq](./images/BQ Zum Box.png)
+![kit bq](./images/BQ_Zum_Box.png)
 
-![kit bq 2](./images/BQ Zum Box2.png)
+![kit bq 2](./images/BQ_Zum_Box2.png)
 
 
 Con el podemos hacer un robot similar a este:
 
-![evoPrintBot](https://github.com/javacasm/evoPrintBot/raw/master/images/evoPrintBot.png)
+![evoPrintBot](https://raw.githubusercontent.com/javacasm/evoPrintBot/master/imagenes/evoPrintBot.png)
 
 ## Alternativas
 
