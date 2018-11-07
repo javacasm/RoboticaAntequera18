@@ -1,3 +1,17 @@
+# Robotica Antequera 2018
+
+Curso de introducción a la robótica (secundaria)
+
+CEP de Antequera
+
+## [Programa](./README.md)
+
+### José Antonio Vacas @javacasm
+
+![cc](./images/CCbySQ_88x31.png)
+
+## [https://github.com/javacasm/RoboticaAntequera18](https://github.com/javacasm/RoboticaAntequera18)
+
 # Vampirobot
 
 Medida de los componentes
