@@ -1,6 +1,6 @@
-# Robotica Antequera
+# Robotica Antequera 2018
 
-Curso de Introducción a la robótica (172925GE205)
+Curso de Introducción a la robótica (secundaria) [192925GE401](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/192925GE401/)
 
 CEP de Antequera
 
@@ -10,7 +10,7 @@ CEP de Antequera
 
 ![cc](./images/CCbySQ_88x31.png)
 
-## [https://github.com/javacasm/RoboticaAntequera](https://github.com/javacasm/RoboticaAntequera)
+## [https://github.com/javacasm/RoboticaAntequera18](https://github.com/javacasm/RoboticaAntequera18)
 
 ## Introducción
 
@@ -31,7 +31,7 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
 
 ## Sesiones
 
-25-01-2017 16:00-20:00
+07-11-2018 17:00-20:00
 
 * Presentación de los componentes y software a utilizar
   * Kit de robótica: [componentes](./Componentes.md)
@@ -40,18 +40,17 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
 * [Sensores de proximidad](./proyectos/NoTeCaigasx2.bitbloq)
 * [Dando movimiento: servos](./proyectos/Ptenciometro_y_servo.bitbloq)
 
-01-02-2017 16:00-20:00
+12-11-2018 17:00-20:00
 * Montando nuestro primer robot
 * Programando comportamientos
 
-08-02-2017 16:00-20:00
+21-11-2018 17:00-20:00
 Experiencias docentes en clase
 * [Experiencias de los asistentes](./TrabajoEnElAula.md) ([Granada Mágica](./granadaMagica.md))
 * [Otros proyectos educativos](./RoboticaComoExcusa.md)
 * [Integración de los proyectos en las clases](./RoboticaAula.md)
 * [Propuestas por edades](./PropuestasTecnologiaEdades.md)
 
-22-02-2017 16:00-20:00
 Revisión de los avances
 * Revisión del avance de los proyectos
 * Programación más avanzada
@@ -59,7 +58,7 @@ Revisión de los avances
 * Reciclaje de materiales
 * [Ideas](./ideas.md) y [Proyectos](./Proyectos.md)
 
-29-03-2017 16:00-20:00
+04-12-2018 17:00-20:00
 Exposición de los resultados
 * Puesta en común de las experiencias
 * Resultados de clase
